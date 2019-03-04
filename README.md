@@ -10,7 +10,9 @@ Home of the Pasthetics Theme for Adobe's Brackets Editor.
 5.  Choose Pasthetics from the Drop-Down Menu.
 
 ## Install via .zip
-1.  Download latest .zip from /master
+1.  Download latest .zip from [here](https://github.com/pvlm-txt/pasthetics/releases/latest)
 2.  Open Brackets
 3.  Navigate to Exensions
 4.  Drag and Drop .zip into the import Field
+5.  View > Designs
+6.  Choose Pasthetics from the Drop-Down Menu.
