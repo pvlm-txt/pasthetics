@@ -1,5 +1,5 @@
 # Pasthetics
-## Home of the Pasthetics Theme for Adobe's Brackets Editor.
+## Pasthetics Theme for Adobe's Brackets Editor.
 ![logo](https://github.com/pvlm-txt/pasthetics/blob/master/img/preview.png)
 # Usage
 ## Install via CDN
